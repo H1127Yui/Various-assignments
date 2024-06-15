@@ -22,3 +22,7 @@ pip install requests
 pip install bs4
 ```
 
+```cmd
+pip install matplotlib
+```
+
