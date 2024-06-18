@@ -16,7 +16,7 @@
 
 辅助工具：DS-Coder-16k、ChatGLM
 
-（使用DS-Coder-16k进行了thinker库相关的UI绘制,ChatGLM部署在本地进行一些调试）
+（使用DS-Coder-16k进行了tkinter库相关的UI绘制,ChatGLM部署在本地进行一些调试）
 
 ## 程序代码文件说明： 
 
