@@ -1,10 +1,10 @@
 # 开源仓库
 
-[H1127Yui/Various-assignments: 爬虫爬取豆瓣电影TOP250 (github.com)](https://github.com/H1127Yui/Various-assignments)
+[H1127Yui/Various-assignments: 一些作业 (github.com)](https://github.com/H1127Yui/Various-assignments)
 
 # 作品描述
 
-## 描述
+## 描述：
 
  本程序是一个通用程序，可以解决图的矩阵输出图的问题，即输入一个简单图G的邻接矩阵或者距离矩阵，输出该图的图片。
 
@@ -14,7 +14,16 @@
 
 开发环境：Visual Studio Code
 
-## 必须的库
+## 程序代码文件说明： 
+
+本程序只有四个代码文件，即
+
+1. \__main__.py
+2. matrix_change.py（这个是废稿，并没有在\__main__.py中使用，原计划为先转换后画图，现为直接画图）
+3. matrix_input.py
+4. matrux_draw.py
+
+## 必须的库：
 
 ```
 pip install numpy
@@ -38,14 +47,14 @@ pip install matplotlib
 
 ## 运行效果截图：
 
-![b6c0f5ae3660e7531c32afcf842aab02](C:\Users\Hyperbola\Documents\Tencent Files\2656131980\nt_qq\nt_data\Pic\2024-06\Ori\b6c0f5ae3660e7531c32afcf842aab02.png)
+![b6c0f5ae3660e7531c32afcf842aab02](https://picture.gptkong.com/20240618/2129e129903f7d4183a1d2ac36cea6dc8f.png)
 
 
 
-![b6c0f5ae3660e7531c32afcf842aab02](C:\Users\Hyperbola\Documents\Tencent Files\2656131980\nt_qq\nt_data\Pic\2024-06\Ori\b6c0f5ae3660e7531c32afcf842aab02.png)
+![b6c0f5ae3660e7531c32afcf842aab02](https://picture.gptkong.com/20240618/2130bad0a3856a402aab22a46c5de2fc4b.png)
 
-![image-20240618181445307](C:\Users\Hyperbola\AppData\Roaming\Typora\typora-user-images\image-20240618181445307.png)
+![image-20240618181445307](https://picture.gptkong.com/20240618/21307e58e986a34e918cc224a1671ab37e.png)
 
 
 
-![image-20240618181502805](C:\Users\Hyperbola\AppData\Roaming\Typora\typora-user-images\image-20240618181502805.png)
+![image-20240618181502805](https://picture.gptkong.com/20240618/21314cc98e0abb40ad8d5fad2f90bd89d7.png)
